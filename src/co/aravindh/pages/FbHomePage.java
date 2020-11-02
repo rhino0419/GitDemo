@@ -19,6 +19,9 @@ public class FbHomePage {
 
 	public void setDropDown() {
 		 dropDown.click();
+		 System.out.println("india");
+		 System.out.println("australia");
+		 System.out.println("srilanka");
 	}
 	public void clickLogout() {
 		logout.click();
