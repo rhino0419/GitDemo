@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Page Object Model(failed)">
+    <classes>
+      <class name="co.aravindh.tests.FbLoginTest">
+        <methods>
+          <include name="initialize"/>
+          <include name="init"/>
+          <include name="closingDriver"/>
+        </methods>
+      </class> <!-- co.aravindh.tests.FbLoginTest -->
+    </classes>
+  </test> <!-- Page Object Model(failed) -->
+</suite> <!-- Failed suite [Suite] -->
